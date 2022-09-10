@@ -9,4 +9,4 @@ Example:
 
 And finds the path:
 
-![image](https://user-images.githubusercontent.com/44571716/189477756-342c527c-05da-4786-8db4-2c003a696596.png)
+![1](https://user-images.githubusercontent.com/44571716/189477796-5feb3cea-7576-486e-9655-b70f8002a43d.png)

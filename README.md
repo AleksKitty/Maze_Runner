@@ -1,4 +1,6 @@
 # Maze_Runner
+Project description: https://hyperskill.org/projects/47?category=2&track=12
+
 Generates random maze by input length (and width) with 1 entrance and 1 exit. Used Prim's algorithm for finding minimum spanning tree.
 
 Example:
